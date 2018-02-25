@@ -2,7 +2,7 @@
 ## Symfony 4 testing
 ### Installing symfony 4
 composer create-project symfony/website-skeleton sym4a
-### changing directory
+### Changing directory
 cd sym4a
 ### Installing console
 composer require server --dev

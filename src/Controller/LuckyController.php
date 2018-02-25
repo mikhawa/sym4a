@@ -2,8 +2,13 @@
 // src/Controller/LuckyController.php
 namespace App\Controller;
 
-// use Symfony\Component\HttpFoundation\Response;
+// request http
+use Symfony\Component\HttpFoundation\Request;
+// response http
+use Symfony\Component\HttpFoundation\Response;
+// routing with annotation
 use Symfony\Component\Routing\Annotation\Route;
+// Controller is a simple implementation of a Controller. It provides methods to common features needed in controllers.
 use Symfony\Bundle\FrameworkBundle\Controller\Controller;
 
 class LuckyController extends Controller
