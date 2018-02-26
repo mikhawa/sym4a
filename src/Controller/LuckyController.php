@@ -15,7 +15,7 @@ class LuckyController extends Controller
 {
     /**
      * 
-     * @Route("/lucky/number")
+     * @Route("/lucky/number", name="luky-number")
      */
     public function number()
     {
