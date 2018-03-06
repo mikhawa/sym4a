@@ -1,6 +1,8 @@
 <?php
 
-namespace AppBundle\Entity;
+namespace App\Entity;
+
+
 
 class Product
 {
